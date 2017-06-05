@@ -1,1 +1,1 @@
-sample text.hte
+sample text.text.
